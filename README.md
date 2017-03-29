@@ -4,7 +4,7 @@
 
 <html>
 <head>
-  <title>First Year Biochemistry Revision</title>
+  <h1>First Year Biochemistry Revision</h1>
 </head>
 
 <body>
